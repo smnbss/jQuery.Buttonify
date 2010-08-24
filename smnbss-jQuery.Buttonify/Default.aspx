@@ -52,10 +52,8 @@
         </tr>
     </table>
     <script type="text/javascript">
-        debugger;
         $('code').each(function (index, value) {
             $(value).text($(value).html());
         });
-        
     </script>
 </asp:Content>

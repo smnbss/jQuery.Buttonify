@@ -50,7 +50,6 @@
     <Reference Include="System.Web.ApplicationServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="default.html" />
     <Content Include="Scripts\buttonifier\css\images\bg_button_a.gif" />
     <Content Include="Scripts\buttonifier\css\images\bg_button_a_big.gif" />
     <Content Include="Scripts\buttonifier\css\images\bg_button_a_red.gif" />
